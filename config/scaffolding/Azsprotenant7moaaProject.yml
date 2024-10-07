@@ -8,7 +8,7 @@ packages:
   gitUsername: moaaSoftwareAG
   gitBranch: main
 services:
-- serviceName: project.azsprotenant7moaa.integrations:edgeFlow_1
+- serviceName: project.azsprotenant7moaa.integrations:edge_flow_2
   packages:
   - name: Azsprotenant7moaaProject
     version: "1.0"
