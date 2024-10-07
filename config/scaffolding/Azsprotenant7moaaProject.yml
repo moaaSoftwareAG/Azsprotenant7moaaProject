@@ -8,11 +8,7 @@ packages:
   gitUsername: moaaSoftwareAG
   gitBranch: main
 services:
-- serviceName: project.azsprotenant7moaa.integrations:edgeFlow_3
+- serviceName: project.azsprotenant7moaa.integrations:edge_flow_4
   packages:
   - name: Azsprotenant7moaaProject
     version: "1.0"
-- serviceName: pub.date:getCurrentDate
-  packages:
-  - name: WmPublic
-    version: 11.1.0.0.2010
